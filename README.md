@@ -32,3 +32,4 @@ ex) [Java] JVM Create/Update
 - ### OS
  
   - [프로세스와 스레드](OS/OS.%20프로세스와%20스레드.md)
+  - [IPC의 종류와 특징](OS/OS.%20IPC의%20종류와%20특징.md)
