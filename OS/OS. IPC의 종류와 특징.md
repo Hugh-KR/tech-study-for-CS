@@ -11,6 +11,11 @@ IPC 설비의 종류는 다양하고 필요에 따라 선택해서 사용해야 
 ### IPC 종류
 
 
+#### ↳익명 PIPE
+
+#### ↳Named PIPE(FIFO)
+
+#### ↳Message Queue
 
 
 ---
