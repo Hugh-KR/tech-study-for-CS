@@ -86,7 +86,7 @@
 [OS. PCB와 Context Switching](OS.%20PCB와%20Context%20Switching.md)  
 [OS. IPC의 종류와 특징](OS.%20IPC의%20종류와%20특징.md)
 
-
+<br>
 
 ### 멀티 스레드
 - 하나의 응용프로그램을 여러 개의 스레드로 구성하고 각 스레드가 하나의 작업을 처리하도록 하는 것
@@ -106,6 +106,29 @@
 - 공유 자원에 있어 **동기화 문제**가 발생한다.
 - 하나의 스레드에 문제가 발생하면 전체 프로세스가 영향을 받는다.
 
+<br>
+
+### 멀티 프로세스 대신 멀티 스레드를 사용하는 것의 의미
+- 프로그램을 여러개 키는 것 보다 하나의 프로그램 안에서 여러 작업을 해결하는 것이다.
+
+![](../Img/ProcessAndThread_img_03.png)
+
+Context Switching은 아래의 작업을 수행한다.
+```
+1. 실행중인 프로세스 혹은 스레드의 context를 PCB에 백업 (CPU 레지스터 값, 어디까지 실행됐는지 등)
+2. CPU 캐시를 비움(flush)
+3. TLB(Table Lookaside Buffer)를 비움
+4. MMU(Memory Management Unit)설정 변경
+```
+**프로세스 Context Switching은 1,2,3,4번을 모두 수행하지만,  
+스레드 Context Switching은 1번만 수행한다.**
+
+또한 프로세스간 통신(IPC)보다 스레드 간의 통신 비용이 적으므로 처리 비용 감소 및 응답 시간 단축이 가능해진다.  
+`물론 동기화 문제를 주의해야 한다.`
+
+**MMU와 TLB가 궁금하다면 아래 링크로**  
+[OS. MMU와 TLB](OS.%20MMU와%20TLB.md)
+
 ---
 
 ### Reference
@@ -113,4 +136,5 @@
 [# [OS] 프로세스와 스레드의 차이](https://gmlwjd9405.github.io/2018/09/14/process-vs-thread.html)  
 [프로세스와 스레드](https://github.com/devSquad-study/2023-CS-Study/blob/main/OS/os_process_thread.md)  
 [프로세스 vs 스레드](https://github.com/gyoogle/tech-interview-for-developer/blob/master/Computer%20Science/Operating%20System/Process%20vs%20Thread.md)  
-[IPC의 종류와 특징](https://jwprogramming.tistory.com/54)
+[IPC의 종류와 특징](https://jwprogramming.tistory.com/54)  
+[스레드 컨텐스트 스위칭이 가벼운 이유](https://easy-code-yo.tistory.com/31)
