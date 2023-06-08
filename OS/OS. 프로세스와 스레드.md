@@ -70,6 +70,11 @@
 
 **IPC(Inter Process Communication)**
 ```
+- 프로세스는 완전히 독립된 실행객체이다.
+- 독립되어 있는 만큼 별도의 설비 없이는 서로간의 통신이 어렵다는 문제가 있게 된다.
+- 이를 위해 커널 영역에서 IPC라는 내부 프로세스간 통신을 제공한다.
+- 프로세스는 커널이 제공하는 IPC설비를 이용해서 프로세스간 통신을 할 수 있게 된다.
+- 현실에서도 필요에 따라다양한 통신 설비들이 존재하는것 처럼 IPC에도 다양한 설비들이 존재한다.
 ```
 
 **Context Switching**
@@ -79,7 +84,7 @@
 ```
 자세한 정보는 아래의 포스팅에서 확인해보자.  
 [OS. PCB와 Context Switching](OS.%20PCB와%20Context%20Switching.md)  
-[OS. 커널 구조와 유형](OS.%20커널%20구조와%20유형.md)
+[OS. IPC의 종류와 특징](OS.%20IPC의%20종류와%20특징.md)
 
 
 
@@ -91,4 +96,5 @@
 
 [# [OS] 프로세스와 스레드의 차이](https://gmlwjd9405.github.io/2018/09/14/process-vs-thread.html)  
 [프로세스와 스레드](https://github.com/devSquad-study/2023-CS-Study/blob/main/OS/os_process_thread.md)  
-[프로세스 vs 스레드](https://github.com/gyoogle/tech-interview-for-developer/blob/master/Computer%20Science/Operating%20System/Process%20vs%20Thread.md)
+[프로세스 vs 스레드](https://github.com/gyoogle/tech-interview-for-developer/blob/master/Computer%20Science/Operating%20System/Process%20vs%20Thread.md)  
+[IPC의 종류와 특징](https://jwprogramming.tistory.com/54)
