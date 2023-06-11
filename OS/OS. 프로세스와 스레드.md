@@ -79,6 +79,7 @@
 ```
 자세한 정보는 아래의 포스팅에서 확인해보자.  
 [OS. PCB와 Context Switching](OS.%20PCB와%20Context%20Switching.md)  
+[OS. 커널 구조와 유형](OS.%20커널%20구조와%20유형.md)
 
 
 
