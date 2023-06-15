@@ -10,7 +10,7 @@
 | [<img src="https://avatars.githubusercontent.com/u/83931353?v=4" width="100">](https://github.com/Hugh-KR) | 
 | :--------------------------------------------------------------------------------------------------------: | 
 
-**Commit convention**
+**Commit Convention**
 ```
     [분야]  내용  상태
 ex) [Java] JVM Create/Update
