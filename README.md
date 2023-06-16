@@ -27,7 +27,7 @@ ex) [Java] JVM Create/Update
   
   - [JVM의 목적](Java/Java.%20JVM의%20목적.md)  
   - [JDK JRE JVM 구성 원리](Java/Java.%20JDK%20JRE%20JVM%20구성%20원리.md)  
-  - [JIT 란?](Java/Java.%20JIT%20란?.md)
+  - [JIT 란?](Java/Java.%20JIT%20란%3F.md)
 
 - ### OS
  
