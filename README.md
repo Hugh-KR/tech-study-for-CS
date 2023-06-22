@@ -31,4 +31,4 @@ ex) [Java] JVM Create/Update
 
 - ### OS
  
-  - [[OS] 프로세스와 스레드](OS/%5BOS%5D%20프로세스와%20스레드.md)
+  - [OS. 프로세스와 스레드](OS/OS.%20프로세스와%20스레드.md)

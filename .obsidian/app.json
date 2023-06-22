@@ -4,5 +4,11 @@
   "newFileLocation": "current",
   "attachmentFolderPath": "Img",
   "promptDelete": false,
-  "alwaysUpdateLinks": true
+  "alwaysUpdateLinks": true,
+  "strictLineBreaks": true,
+  "foldHeading": true,
+  "newLinkFormat": "relative",
+  "propertiesInDocument": "visible",
+  "showInlineTitle": true,
+  "spellcheck": false
 }
