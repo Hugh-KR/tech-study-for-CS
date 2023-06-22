@@ -77,8 +77,7 @@
 - CPU는 여러 프로세스를 돌아가면서 작업을 처리하는데 이 과정을 Context Switching 이라고 한다.
 - 우선순위가 높은 프로세스가 할당되면, 동작중인 프로세스가 대기하면서 해당 프로세스의 상태를 PCB에 보관하고, 또 다른 프로세스의 정보를 PCB에서 읽어 동작하는 것. 
 ```
-자세한 정보는 아래 포스팅에서 확인해보자.
-[[OS] PCB와 Context Switching]([OS]%20PCB와%20Context%20Switching.md)
+자세한 정보는 옆의 포스팅에서 확인해보자. [[OS] PCB와 Context Switching]([OS]%20PCB와%20Context%20Switching.md)
 
 ### 멀티 스레드
 
