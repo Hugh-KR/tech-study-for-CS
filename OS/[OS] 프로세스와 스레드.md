@@ -15,7 +15,7 @@
 
 ![](../Img/ProcessAndThread_img_01.png)
 
-`조금 더 구체적인 사진`
+`조금 더 구체적인 이미지`  
 ![](../Img/ProcessAndThread_img_02.png)
 
 #### ↳프로세스 메모리 구조
