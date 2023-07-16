@@ -17,7 +17,7 @@ ex) [Java] JVM Create/Update
 ```
 
 잘못된 내용이 있다면 [이슈](https://github.com/Hugh-KR/tech-study-for-CS/issues)와 [PR](https://github.com/Hugh-KR/tech-study-for-CS/pulls)로 알려주시면 감사하겠습니다. ✏️  
-`함께하실분은 언제든 환영입니다 😆`
+`함께하실분은 언제든 환영입니다!😆`
 
 ---
 
