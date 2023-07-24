@@ -2,9 +2,9 @@
 
 ### 💻 CS 학습과 면접 대비 📖
 
-`이해하고 설명할 수 있는 지식 만들기`
+**이해하고 설명할 수 있는 지식 만들기**
 
-함께하실분은 언제든 환영입니다!
+`함께하실분은 언제든 환영입니다😆`
 
 <br>
 
@@ -17,6 +17,8 @@
     [분야]  내용  상태
 ex) [Java] JVM Create/Update
 ```
+
+잘못된 내용이 있다면 [이슈](https://github.com/Hugh-KR/tech-study-for-CS/issues)와 [PR](https://github.com/Hugh-KR/tech-study-for-CS/pulls)로 알려주시면 감사하겠습니다 ✏️
 
 ---
 
