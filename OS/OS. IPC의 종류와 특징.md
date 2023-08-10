@@ -31,3 +31,4 @@ IPC 설비의 종류는 다양하고 필요에 따라 선택해서 사용해야 
 ### Reference
 
 [IPC(Inter Process Communication)](https://github.com/gyoogle/tech-interview-for-developer/blob/master/Computer%20Science/Operating%20System/IPC(Inter%20Process%20Communication).md)  
+[IPC의 종류와 특징](https://jwprogramming.tistory.com/54)  
