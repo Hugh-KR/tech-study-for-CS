@@ -3,5 +3,6 @@
   "useMarkdownLinks": true,
   "newFileLocation": "current",
   "attachmentFolderPath": "Img",
-  "promptDelete": false
+  "promptDelete": false,
+  "alwaysUpdateLinks": true
 }
