@@ -17,6 +17,8 @@ C언어로 작성된 Test.c가 있다고 가정했을때, 윈도우 컴파일러
 
 그러나 Java의 경우 Test.java를 컴파일 하면 Test.class 파일이 생성된다. 그리고 이렇게 생성된 바이트 코드를 각자의 플랫폼에 설치되어 있는 JVM이 운영체제에 맞는 실행 파일로 바꿔준다. 즉 Java에서는 하나의 바이트 코드로 JVM이 설치된 모든 플랫폼에서 동작이 가능하다는 이야기.
 
+<br>
+
 ## JVM 동작 방식
 ![](../Img/JVM_img_03.png)
 ```
@@ -26,6 +28,8 @@ C언어로 작성된 Test.c가 있다고 가정했을때, 윈도우 컴파일러
 4. Runtime Data Area로 로딩된 .class들은 Execution Engine을 통해 해석한다.
 5. 해석된 바이트 코드는 Runtime Data Area의 각 영역에 배치되어 수행하며 이 과정에서 Execution Engine에 의해 GC의 작동과 스레드 동기화가 이루어진다.
 ```
+
+<br>
 
 ## JVM 구조
 ![](../Img/JVM_img_04.png)
