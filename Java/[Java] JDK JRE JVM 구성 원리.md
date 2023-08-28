@@ -23,5 +23,7 @@ SDK를 활용하여 애플리케이션을 개발할 수 있다.
 ### 자바 런타임 환경(JRE, Java Runtime Environment)
 - JVM + 자바 클래스 라이브러리(Java Class Library) 등으로 구성되어 있다.
 - **위 그림에는 나오지 않지만 자바 클래스 로더(Java Class Loader) 또한 JRE의 구성요소이다.**
+- 클래스 로더, 클래스 라이브러리를 통해 **작성한 자바코드를 라이브러리와 결합한 후** JVM에 넘겨 실행시킨다.
+- JRE는 그 자체로 특별한 기능을 한다기보다는 JVM이 원활하게 작동할 수 있도록 환경을 맞춰주는 역할을 한다.
 
 ### 자바 가상 머신(JVM, Java Virtual Machine)
