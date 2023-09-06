@@ -2,5 +2,6 @@
   "livePreview": false,
   "useMarkdownLinks": true,
   "newFileLocation": "current",
-  "attachmentFolderPath": "Img"
+  "attachmentFolderPath": "Img",
+  "promptDelete": false
 }

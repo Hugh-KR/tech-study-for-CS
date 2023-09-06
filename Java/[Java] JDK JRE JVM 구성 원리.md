@@ -1,4 +1,4 @@
-## JDK JRE JVM
+## JDK JRE JVM 구성 원리
 
 세 용어의 관계를 정리해보자
 
@@ -21,6 +21,7 @@ SDK를 활용하여 애플리케이션을 개발할 수 있다.
 ```
 
 ### 자바 런타임 환경(JRE, Java Runtime Environment)
-- 
+- JVM + 자바 클래스 라이브러리(Java Class Library) 등으로 구성되어 있다.
+- **위 그림에는 나오지 않지만 자바 클래스 로더(Java Class Loader) 또한 JRE의 구성요소이다.**
 
 ### 자바 가상 머신(JVM, Java Virtual Machine)
