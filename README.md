@@ -22,4 +22,5 @@ ex) [Java] JVM Create/Update
 
 - ### JAVA
   
-  - [JVM 의 목적](https://github.com/Hugh-KR/tech-study-for-CS/blob/main/Java/%5BJava%5D%20JVM%20%EC%9D%98%20%EB%AA%A9%EC%A0%81.md)
+  - [[Java] JVM의 목적]([Java]%20JVM의%20목적.md)  
+  - [[Java] JDK JRE JVM 구성 원리]([Java]%20JDK%20JRE%20JVM%20구성%20원리.md)

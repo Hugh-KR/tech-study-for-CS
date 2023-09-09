@@ -5,12 +5,22 @@
 ![JVM_img_01.png](../Img/JVM_img_01.png)
 
 ### 자바 개발 키트(JDK, Java Development Kit)
-- 우리가 일반적으로 자바를 공부하기위해 설치하는게 바로 JDK
+- 자바를 사용하기 위해 필요한 모든 기능을 갖춘 자바용 **SDK(Software Development Kit)**
+- 우리가 일반적으로 자바를 공부하기위해 설치하는게 바로 JDK이다.
 - JDK를 설치하면 JRE, JVM이 함께 설치된다.
 - JDK에는 JRE에 없는 자바 컴파일러(javac)와 jdb, javadoc 과 같은 도구를 포함한다.
 - 자바로 만들어진 프로그램을 실행만 할 경우 JRE만 설치해도 되지만, 자바로 뭔가 만들어보고 싶은 개발자는 JDK를 설치해야한다.
 
+**SDK란?**
+```
+소프트웨어 개발 키트(Software Development Kit)
+하드웨어 플랫폼, 운영체제 또는 프로그래밍 언어 제작사가 제공하는 툴이다.
+키트의 요소는 제작사마다 다르다.
+SDK의 대표적인 예로 JDK 등이 있다.
+SDK를 활용하여 애플리케이션을 개발할 수 있다.
+```
 
 ### 자바 런타임 환경(JRE, Java Runtime Environment)
+- 
 
 ### 자바 가상 머신(JVM, Java Virtual Machine)
