@@ -58,6 +58,7 @@
   "hiddenExtensions": [
     ".mdb"
   ],
+  "newFileLocation": "current",
   "inlineBacklinks": false,
   "inlineContext": true,
   "inlineBacklinksExpanded": false,

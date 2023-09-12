@@ -1,3 +1,6 @@
 {
-  "livePreview": false
+  "livePreview": false,
+  "useMarkdownLinks": true,
+  "newFileLocation": "current",
+  "attachmentFolderPath": "Img"
 }
