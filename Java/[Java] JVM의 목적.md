@@ -109,6 +109,8 @@ C언어로 작성된 Test.c가 있다고 가정했을때, 윈도우 컴파일러
 - 여기서 일어나는 GC를 **Major GC** 라고 한다. Minor GC에 비해 속도가 느리다.
 - New/Young 영역에서 일정시간 참조되고 있는, 살아남은 객체들이 저장되는 공간이다.
 
+##### ↳↳Permanent Generation
+
 ---
 
 ### Reference
