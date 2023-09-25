@@ -1,4 +1,9 @@
 {
   "promptDelete": false,
-  "alwaysUpdateLinks": true
+  "alwaysUpdateLinks": true,
+  "useMarkdownLinks": true,
+  "attachmentFolderPath": "Img",
+  "strictLineBreaks": true,
+  "smartIndentList": true,
+  "newFileLocation": "current"
 }
