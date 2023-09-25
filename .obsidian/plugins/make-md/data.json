@@ -36,6 +36,12 @@
   "deleteFileOption": "system-trash",
   "expandedFolders": {
     "tech-study-for-CS": [
+      "Java",
+      "Java",
+      "Java",
+      "Java",
+      "Java",
+      "Java",
       "Java"
     ]
   },
@@ -65,7 +71,7 @@
   "inlineBacklinks": false,
   "inlineContext": true,
   "inlineBacklinksExpanded": false,
-  "inlineContextExpanded": true,
+  "inlineContextExpanded": false,
   "inlineContextSectionsExpanded": true,
   "dataviewInlineContext": false,
   "inlineContextNameLayout": "vertical",
@@ -73,7 +79,7 @@
   "spacesSyncTimeoutSeconds": 10,
   "spacesAutoBackup": true,
   "spacesAutoBackupInterval": 10,
-  "spacesAutoBackupLast": 1695619923559,
+  "spacesAutoBackupLast": 1695620100651,
   "spacesUseAlias": false,
   "precreateVaultSpace": true,
   "fmKeyAlias": "aliases",
