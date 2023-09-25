@@ -33,13 +33,9 @@
   "folderNoteDefaultView": true,
   "sidebarTabs": true,
   "showRibbon": true,
-  "deleteFileOption": "trash",
+  "deleteFileOption": "system-trash",
   "expandedFolders": {
     "tech-study-for-CS": [
-      "Java",
-      "Java",
-      "Java",
-      "Java",
       "Java"
     ]
   },
@@ -77,7 +73,7 @@
   "spacesSyncTimeoutSeconds": 10,
   "spacesAutoBackup": true,
   "spacesAutoBackupInterval": 10,
-  "spacesAutoBackupLast": 1695619620691,
+  "spacesAutoBackupLast": 1695619923559,
   "spacesUseAlias": false,
   "precreateVaultSpace": true,
   "fmKeyAlias": "aliases",
