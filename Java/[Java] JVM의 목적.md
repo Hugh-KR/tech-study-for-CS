@@ -5,7 +5,7 @@
 ![JVM_img_01.png](../Img/JVM_img_01.png)
 
 **이들은 모두 JDK 에 포함 되는데 자세한 정보는 아래 링크 확인 부탁드립니다.**  
-[[[[Java] JDK JRE JVM 구성 원리]]]()  
+[[Java] JDK JRE JVM 구성 원리]([Java]%20JDK%20JRE%20JVM%20구성%20원리.md)
 
 JVM의 목적은 크게 두 가지로 말할 수 있습니다.
 1. 자바 프로그램이 어느 기기나 운영체제 상에서도 실행될 수 있도록 하는 것
@@ -28,7 +28,6 @@ C언어로 작성된 Test.c가 있다고 가정했을때, 윈도우 컴파일러
 ```
 
 다음 포스팅에서는 JVM의 구조에 대해 조금 더 자세히 알아보겠습니다.  
-[[Java] JVM의 구조](https://github.com/devFancy/2023-CS-Study/blob/main/java/java_jvm_architecture.md)
 
 [[Java] JVM의 구조]([Java]%20JVM의%20구조.md)
 
