@@ -12,7 +12,7 @@
 **Commit convention**
 
 ```
-    [분야]    내용  상태
+    [분야]  내용  상태
 ex) [Java] JVM Create/Update
 ```
 
