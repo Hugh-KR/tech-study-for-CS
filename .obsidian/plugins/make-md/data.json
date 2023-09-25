@@ -20,7 +20,7 @@
   "activeSpace": "",
   "spacesCompactMode": false,
   "defaultDateFormat": "MMM dd yyyy",
-  "spacesEnabled": true,
+  "spacesEnabled": false,
   "spacesPerformance": false,
   "collapsedTags": [],
   "enableFolderNote": true,
@@ -42,13 +42,14 @@
       "Java",
       "Java",
       "Java",
-      "Java"
+      "Img"
     ]
   },
   "expandedSpaces": [
     "/",
     null,
-    "tech-study-for-CS"
+    "tech-study-for-CS",
+    null
   ],
   "expandFolderOnClick": true,
   "openFolders": [],
@@ -68,10 +69,11 @@
   "hiddenExtensions": [
     ".mdb"
   ],
+  "newFileLocation": "current",
   "inlineBacklinks": false,
   "inlineContext": true,
   "inlineBacklinksExpanded": false,
-  "inlineContextExpanded": false,
+  "inlineContextExpanded": true,
   "inlineContextSectionsExpanded": true,
   "dataviewInlineContext": false,
   "inlineContextNameLayout": "vertical",
@@ -79,7 +81,7 @@
   "spacesSyncTimeoutSeconds": 10,
   "spacesAutoBackup": true,
   "spacesAutoBackupInterval": 10,
-  "spacesAutoBackupLast": 1695620100651,
+  "spacesAutoBackupLast": 1695620680024,
   "spacesUseAlias": false,
   "precreateVaultSpace": true,
   "fmKeyAlias": "aliases",
