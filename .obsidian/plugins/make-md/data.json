@@ -20,7 +20,7 @@
   "activeSpace": "",
   "spacesCompactMode": false,
   "defaultDateFormat": "MMM dd yyyy",
-  "spacesEnabled": true,
+  "spacesEnabled": false,
   "spacesPerformance": false,
   "collapsedTags": [],
   "enableFolderNote": true,
@@ -37,6 +37,7 @@
   "expandedFolders": {},
   "expandedSpaces": [
     "/",
+    null,
     null
   ],
   "expandFolderOnClick": true,
@@ -57,6 +58,7 @@
   "hiddenExtensions": [
     ".mdb"
   ],
+  "newFileLocation": "current",
   "inlineBacklinks": false,
   "inlineContext": true,
   "inlineBacklinksExpanded": false,
@@ -68,7 +70,7 @@
   "spacesSyncTimeoutSeconds": 10,
   "spacesAutoBackup": true,
   "spacesAutoBackupInterval": 10,
-  "spacesAutoBackupLast": 1695782612569,
+  "spacesAutoBackupLast": 1695782741608,
   "spacesUseAlias": false,
   "precreateVaultSpace": true,
   "fmKeyAlias": "aliases",
