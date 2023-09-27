@@ -20,7 +20,7 @@
   "activeSpace": "",
   "spacesCompactMode": false,
   "defaultDateFormat": "MMM dd yyyy",
-  "spacesEnabled": false,
+  "spacesEnabled": true,
   "spacesPerformance": false,
   "collapsedTags": [],
   "enableFolderNote": true,
@@ -33,22 +33,10 @@
   "folderNoteDefaultView": true,
   "sidebarTabs": true,
   "showRibbon": true,
-  "deleteFileOption": "system-trash",
-  "expandedFolders": {
-    "tech-study-for-CS": [
-      "Java",
-      "Java",
-      "Java",
-      "Java",
-      "Java",
-      "Java",
-      "Img"
-    ]
-  },
+  "deleteFileOption": "trash",
+  "expandedFolders": {},
   "expandedSpaces": [
     "/",
-    null,
-    "tech-study-for-CS",
     null
   ],
   "expandFolderOnClick": true,
@@ -69,7 +57,6 @@
   "hiddenExtensions": [
     ".mdb"
   ],
-  "newFileLocation": "current",
   "inlineBacklinks": false,
   "inlineContext": true,
   "inlineBacklinksExpanded": false,
@@ -81,7 +68,7 @@
   "spacesSyncTimeoutSeconds": 10,
   "spacesAutoBackup": true,
   "spacesAutoBackupInterval": 10,
-  "spacesAutoBackupLast": 1695620680024,
+  "spacesAutoBackupLast": 1695782612569,
   "spacesUseAlias": false,
   "precreateVaultSpace": true,
   "fmKeyAlias": "aliases",
