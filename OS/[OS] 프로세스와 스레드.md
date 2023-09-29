@@ -68,7 +68,7 @@
   - 프로세스는 각각의 독립된 메모리 영역을 할당받았기 때문에 Context Switching이 발생하면 캐시에 있는 모든 데이터를 리셋하고 다시 캐시 정보를 불러와야 한다.
   - IPC를 통한 어렵고 복잡한 통신 기법
 
-**IPC**
+**IPC(Inter Process Communication)**
 ```
 ```
 
