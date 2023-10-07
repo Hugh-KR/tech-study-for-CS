@@ -47,9 +47,16 @@ IPC 설비의 종류는 다양하고 필요에 따라 선택해서 사용해야 
 - 양방향 통신을 위해서는 두개의 FIFO파일이 필요하다.
 
 #### ↳Message Queue
+- 메시지 큐는 선입선출의 자료구조를 가지는 통신설비로 커널에서 관리한다. 
+- 입출력 방식만 보면 Named PIPE와 유사하다.
+- 파이프는 스트림 기반으로 동작하고, 메시지 큐는 메시지(또는 패킷) 단위로 동작한다.
+- Named PIPE가 데이터의 흐름이라면 메시지 큐는 메모리 공간이다.
+-  각 메시지의 최대 크기는 제한되어 있으며 송수신할 메시지의 크기에 따라 적절하게 조절하면 된다.
+- 메시지 큐의 데이터에 번호를 붙임으로써 여러개의 프로세스가 동시에 데이터를 쉽게 다룰 수 있다.
+- 각 메시지에는 Type이 있고, 수신 프로세스는 어떤 유형의 메시지를 받을 것인지 선택할 수 있다.
 
 #### ↳공유 메모리
-
+- 파이프, 메시지 큐가 통신을 이용한 설비라면, 공유 메모리는 데이터 자체를 공유하도록 지원하는 설비다.
 #### ↳메모리 맵
 
 #### ↳소켓
@@ -61,4 +68,5 @@ IPC 설비의 종류는 다양하고 필요에 따라 선택해서 사용해야 
 
 [IPC(Inter Process Communication)](https://github.com/gyoogle/tech-interview-for-developer/blob/master/Computer%20Science/Operating%20System/IPC(Inter%20Process%20Communication).md)  
 [IPC의 종류와 특징](https://jwprogramming.tistory.com/54)  
-[[통신프로그래밍] 파이프](https://12bme.tistory.com/226)
+[[통신프로그래밍] 파이프](https://12bme.tistory.com/226)  
+[ [통신프로그래밍] IPC(메시지큐, 공유 메모리, 세마포어)](https://12bme.tistory.com/227)
