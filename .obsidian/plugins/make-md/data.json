@@ -37,6 +37,7 @@
   "expandedFolders": {},
   "expandedSpaces": [
     "/",
+    null,
     null
   ],
   "expandFolderOnClick": true,
@@ -69,7 +70,7 @@
   "spacesSyncTimeoutSeconds": 10,
   "spacesAutoBackup": true,
   "spacesAutoBackupInterval": 10,
-  "spacesAutoBackupLast": 1697119590151,
+  "spacesAutoBackupLast": 1697181956910,
   "spacesUseAlias": false,
   "precreateVaultSpace": true,
   "fmKeyAlias": "aliases",
