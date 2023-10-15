@@ -28,4 +28,4 @@
 
 ### Reference
 [객체지향(상속, 다형성, 캡슐화 등)](https://github.com/devSquad-study/2023-CS-Study/blob/main/java/java_object_oriented.md)  
-[[Java] 객체지향 프로그래밍(OOP)](https://danmilife.tistory.com/17)  
+[[Java] 객체지향 프로그래밍(OOP)](https://danmilife.tistory.com/17)    
